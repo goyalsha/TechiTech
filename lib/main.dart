@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:techie_tech/HomeScreen.dart';
 
-import 'package:flutter/services.dart';
-
 void main() {
   runApp(MyApp());
-  SystemChrome.setEnabledSystemUIOverlays([]);
+//  SystemChrome.setEnabledSystemUIOverlays([]);
 }
 
 class MyApp extends StatelessWidget {
